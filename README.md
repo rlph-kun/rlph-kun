@@ -1,6 +1,6 @@
 # Hi there, I'm Ralph 👋
 
-🎓 I'm a 4th-year Information Technology student passionate about software development, problem-solving, and building projects that make an impact.  
+🎓 I'm a 4th-year Information Technology student.  
 💻 I enjoy exploring different technologies.  
 🚀 Currently working on academic projects and sharpening my skills in PHP and SQL.  
 
